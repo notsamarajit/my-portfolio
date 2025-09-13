@@ -16,7 +16,7 @@ h1 {
 }
 
 p {
-    color: white;
+    color: rgb(37, 55, 218);
     line-height: 1.6;
 }
 
@@ -44,7 +44,7 @@ ul {
 
 footer {
     align-items: center;
-    background-color: navy;
+    background-color: rgb(247, 64, 18);
     color: white;
     text-align: center;
 }
